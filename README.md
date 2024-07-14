@@ -3,11 +3,11 @@
 Я **Анастасия Вавилова** QA-инженер(тестировщик)
 
 ### Вот что я умею
-* ✨ [Курсовой проект к модулю «Ручное тестирование веб-приложений»]()
+* ✨ [Курсовой проект к модулю «Ручное тестирование веб-приложений»](https://github.com/Nastura/Vavilova-Anastasiya/tree/main/Course%20work)
 
 ### Сертификаты Нетологии
 
-* ✨ [Ручное тестирование веб-приложений]()
-* ✨ [GIT - система контроля версий]()
-* ✨ [JAVA для тестировщиков]()
+* ✨ [Ручное тестирование веб-приложений](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/certificateQA.pdf)
+* ✨ [GIT - система контроля версий](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/certificateGit.pdf)
+* ✨ [JAVA для тестировщиков](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/certificateJava.pdf)
 
