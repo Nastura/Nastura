@@ -10,4 +10,9 @@
 * ✨ [Ручное тестирование веб-приложений](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/certificateQA.pdf)
 * ✨ [GIT - система контроля версий](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/certificateGit.pdf)
 * ✨ [JAVA для тестировщиков](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/certificateJava.pdf)
+* ✨ [Автоматизированное тестирование](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/autoTesting.pdf)
+* ✨ [JavaScript для тестировщиков](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/JavaScript.pdf)
+* ✨ [Автоматизация тестирования веб интерфейсов](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/authoTestInterface.pdf)
+* ✨ [Тестирование мобильных приложений](https://github.com/Nastura/Vavilova-Anastasiya/blob/main/Mobil.pdf)
+* ✨ [Дипломная работа](https://github.com/Nastura/Diplom)
 
